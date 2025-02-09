@@ -1,4 +1,4 @@
-Hello! I'm Fadil Ahmed, a passionate software engineer skilled in Python, Data Structures and Algorithms (DSA), PHP, and more. I enjoy solving complex problems and am always eager to learn new technologies.
+Hello! I'm Fadil Ahmed, a passionate software engineer mastering in Python, Data Structures and Algorithms (DSA), OOP, and more. I enjoy solving complex problems and am always eager to learn new technologies.
 
 - 👋 Hi, I'm Faadil1234
 - 👀 I’m interested in software development and open-source contributions
